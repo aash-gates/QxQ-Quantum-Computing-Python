@@ -1,1 +1,0 @@
-# QxQ-Quantum-Computing-Python
