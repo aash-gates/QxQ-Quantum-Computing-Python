@@ -1,2 +1,4 @@
+#storing the Information
+
 name = input('what is your Name\t')
-print("\tyour Name is",name)
+print("\tYour Name is",name)
